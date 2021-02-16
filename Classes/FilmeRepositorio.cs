@@ -6,14 +6,14 @@ namespace Jr.Filmes
     public class FilmeRepositorio : IRepositorio<Filme>
     {
         private List<Filme> listaFilme = new List<Filme>();
-        public void Atualizar(int id, Filme entidade)
+        public void Atualizar(int id, Filme objeto)
         {
-            throw new System.NotImplementedException();
+            listaFilme[id] = objeto;
         }
 
         public void Exclui(int id)
         {
-            throw new System.NotImplementedException();
+            listaFilme[id].Excluir();
         }
 
         public void Insere(Filme entidade)
