@@ -16,24 +16,24 @@ namespace Jr.Filmes
             listaFilme[id].Excluir();
         }
 
-        public void Insere(Filme entidade)
+        public void Insere(Filme objeto)
         {
-            throw new System.NotImplementedException();
+            listaFilme.Add(objeto);
         }
 
         public List<Filme> Lista()
         {
-            throw new System.NotImplementedException();
+            return this.listaFilme;
         }
 
         public int ProximoId()
         {
-            throw new System.NotImplementedException();
+            return listaFilme.Count;
         }
 
         public Filme RetornaPorId(int id)
         {
-            throw new System.NotImplementedException();
+            return listaFilme[id];
         }
     }
 }
