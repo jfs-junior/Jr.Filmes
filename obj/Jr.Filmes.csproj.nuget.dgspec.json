@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\codes\\Jr.Filmes\\Jr.Filmes.csproj": {}
+    "/home/junior/codes/Jr.Filmes/Jr.Filmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\codes\\Jr.Filmes\\Jr.Filmes.csproj": {
+    "/home/junior/codes/Jr.Filmes/Jr.Filmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\codes\\Jr.Filmes\\Jr.Filmes.csproj",
+        "projectUniqueName": "/home/junior/codes/Jr.Filmes/Jr.Filmes.csproj",
         "projectName": "Jr.Filmes",
-        "projectPath": "C:\\Users\\User\\codes\\Jr.Filmes\\Jr.Filmes.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\codes\\Jr.Filmes\\obj\\",
+        "projectPath": "/home/junior/codes/Jr.Filmes/Jr.Filmes.csproj",
+        "packagesPath": "/home/junior/.nuget/packages/",
+        "outputPath": "/home/junior/codes/Jr.Filmes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/junior/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

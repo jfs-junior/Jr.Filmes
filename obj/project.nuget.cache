@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VG7iix49B2YHFLeBadR769nM3K9VdZ08wkRWLQBJEwyvUN3MHJAJ2quconiM6l2ZmH67tMNkyygRlUL4c+4E4g==",
+  "dgSpecHash": "fP2/SDHj/LxiWs5FSVj+B9FSSJ3l4aO07uXwiMLudUaqyDC70uCBtsM/glCo84zJ4fWrGzuAr9pm7nXw8mSAaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\codes\\Jr.Filmes\\Jr.Filmes.csproj",
+  "projectFilePath": "/home/junior/codes/Jr.Filmes/Jr.Filmes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

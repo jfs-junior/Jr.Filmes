@@ -1,0 +1,16 @@
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.csprojAssemblyReference.cache
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.AssemblyInfoInputs.cache
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.AssemblyInfo.cs
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.csproj.CoreCompileInputs.cache
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/Jr.Filmes
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/Jr.Filmes.deps.json
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/Jr.Filmes.runtimeconfig.json
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/Jr.Filmes.runtimeconfig.dev.json
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/Jr.Filmes.dll
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/ref/Jr.Filmes.dll
+/home/junior/codes/Jr.Filmes/bin/Debug/net5.0/Jr.Filmes.pdb
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.dll
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/ref/Jr.Filmes.dll
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.pdb
+/home/junior/codes/Jr.Filmes/obj/Debug/net5.0/Jr.Filmes.genruntimeconfig.cache
