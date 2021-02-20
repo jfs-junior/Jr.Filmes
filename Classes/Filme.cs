@@ -23,11 +23,13 @@ namespace Jr.Filmes
         public override string ToString()
         {
             string retorno = "";
-
-            retorno += "Gênero: "           + this.Genero + Environment.NewLine;
-            retorno += "Título: "           + this.Titulo + Environment.NewLine;
-            retorno += "Descrição: "        + this.Descricao + Environment.NewLine;
-            retorno += "Ano de Início: "    + this.Ano; 
+            retorno +=  Environment.NewLine;
+            retorno += "** INFORMAÇÕES DO FILME **" + Environment.NewLine;
+            retorno += "Gênero: "                   + this.Genero + Environment.NewLine;
+            retorno += "Título: "                   + this.Titulo + Environment.NewLine;
+            retorno += "Descrição: "                + this.Descricao + Environment.NewLine;
+            retorno += "Ano de Início: "            + this.Ano + Environment.NewLine;
+            retorno += "Excluído: "                 + this.Excluido; 
             
             return retorno;
         }
@@ -35,6 +37,11 @@ namespace Jr.Filmes
         public string retornaTitulo()
         {
             return this.Titulo;
+        }
+
+        public bool retornaExcluido()
+        {
+            return this.Excluido;
         }
 
         public int RetornaId()
